@@ -68,7 +68,7 @@ def remove_casas(numero, extenso, unidades, dezenas):
 
 
 def cls(extenso):
-    f"Voce digitou {extenso.capitalize()}"
+    print(f"Voce digitou {extenso.capitalize()}\n")
 
 
 numero = 0
